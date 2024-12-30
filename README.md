@@ -34,11 +34,4 @@ Test the Clone: Use the cloned RFID tag to ensure it works with the original sys
 This RFID cloner is perfect for DIY projects or anyone looking to explore RFID technology with an easy-to-use setup. It works with the Arduino IDE and requires basic wiring to get started.
 
 
-### Key Points:
-- **#** for headings (`#` for primary heading, `##` for secondary headings).
-- **Backticks** (`` ` ``) for inline code (e.g., commands or file names).
-- **Triple backticks** (```` ``` ````) for larger code blocks (e.g., the pinout table).
-- **Markdown formatting** like **bold text** for emphasis.
-
-You can directly copy and paste this markdown into your GitHub repository's README.md or project description to maintain the correct formatting.
 
